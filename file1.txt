@@ -1,1 +1,2 @@
-Hello, welcome to Git Basics Class!
+Hello.
+Welcome to Git Basics Class!
